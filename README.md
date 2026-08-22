@@ -30,10 +30,11 @@ Saya memiliki satu misi besar:
 
 ## 📚 Progress Belajar
 
-| Topik | Status |
+| Topik | Hasil |
 |-------|--------|
 | DateTime | zodiak-check |
 | Perulangan | looping |
+| Aritmatika | kalkulator |
 | ... | .... |
 
 ---
