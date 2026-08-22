@@ -33,6 +33,7 @@ Saya memiliki satu misi besar:
 | Topik | Status |
 |-------|--------|
 | DateTime | zodiak-check |
+| Perulangan | looping |
 | ... | .... |
 
 ---
