@@ -32,8 +32,8 @@ Saya memiliki satu misi besar:
 
 | Topik | Status |
 |-------|--------|
-| Dasar Python | 🟡 Sedang berjalan |
-| (Tambahkan topik lainnya) | 🔜 Segera |
+| DateTime | Belajar modul DateTime |
+| ... | .... |
 
 ---
 
