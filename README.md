@@ -32,7 +32,7 @@ Saya memiliki satu misi besar:
 
 | Topik | Status |
 |-------|--------|
-| DateTime | Belajar modul DateTime |
+| DateTime | zodiak-check |
 | ... | .... |
 
 ---
