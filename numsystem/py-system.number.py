@@ -7,7 +7,7 @@ Encode & Decode
 
 print(f"""
     {5*"="+"CONVERTER NUMBER SYSTEM"+5*"="}
-  imal to NumberSys ]
+  [Decimal to NumberSys ]
 1. Number to Binary
 2. Number to Octal
 3. Number to Hexadecimal
