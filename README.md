@@ -35,6 +35,7 @@ Saya memiliki satu misi besar:
 | DateTime | zodiak-check |
 | Perulangan | looping |
 | Aritmatika | kalkulator |
+| Number Syst | numsystem |
 | ... | .... |
 
 ---
