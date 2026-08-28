@@ -36,6 +36,7 @@ Saya memiliki satu misi besar:
 | Perulangan | looping |
 | Aritmatika | kalkulator |
 | Number Syst | numsystem |
+| Looping | triangle-loop |
 | ... | .... |
 
 ---
