@@ -37,6 +37,7 @@ Saya memiliki satu misi besar:
 | Aritmatika | kalkulator |
 | Number Syst | numsystem |
 | Looping | triangle-loop |
+| random | tebak-angka |
 | ... | .... |
 
 ---
