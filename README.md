@@ -38,6 +38,7 @@ Saya memiliki satu misi besar:
 | Number Syst | numsystem |
 | Looping | triangle-loop |
 | random | tebak-angka |
+| list | dbmalware |
 | ... | .... |
 
 ---
