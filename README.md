@@ -39,6 +39,7 @@ Saya memiliki satu misi besar:
 | Looping | triangle-loop |
 | random | tebak-angka |
 | list | dbvirus |
+| memory | keranjang-belanja |
 | ... | .... |
 
 ---
