@@ -40,6 +40,7 @@ Saya memiliki satu misi besar:
 | random | tebak-angka |
 | list | dbvirus |
 | memory | keranjang-belanja |
+| Dictionary | kontakhp |
 | ... | .... |
 
 ---
